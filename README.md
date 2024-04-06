@@ -1,2 +1,2 @@
 # open-source-projects
-Open-source software available for public usage
+Open-source software available for public usage ⚙️
